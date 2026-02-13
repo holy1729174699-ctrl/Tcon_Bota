@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "tconbota:molten_darkpenis",
+    "amount": 90
+  },
+  "temperature": 1000,
+  "output": "tconbota:darkpenis"
+}

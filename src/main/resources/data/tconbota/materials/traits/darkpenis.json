@@ -1,0 +1,36 @@
+{
+  "default": {
+    "traits": [
+      {
+        "name": "tconbota:foreskin",
+        "level": 1
+      }
+    ]
+  },
+  "per_stat": {
+    "tconstruct:armor_plating": {
+      "traits": [
+        {
+          "name": "tconbota:foreskin",
+          "level": 1
+        },
+        {
+          "name": "tconbota:hardening",
+          "level": 1
+        }
+      ]
+    },
+    "tconstruct:armor_maille": {
+      "traits": [
+        {
+          "name": "tconbota:foreskin",
+          "level": 1
+        },
+        {
+          "name": "tconbota:hardening",
+          "level": 1
+        }
+      ]
+    }
+  }
+}

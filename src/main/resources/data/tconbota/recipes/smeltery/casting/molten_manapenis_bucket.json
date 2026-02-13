@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:bucket"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "tconbota:molten_manapenis",
+    "amount": 1000
+  },
+  "result": "tconbota:molten_manapenis_bucket",
+  "cooling_time": 60
+}

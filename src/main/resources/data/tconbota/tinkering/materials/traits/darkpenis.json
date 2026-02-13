@@ -1,0 +1,20 @@
+{
+  "default": [
+    {
+      "name": "tconbota:foreskin",
+      "level": 1
+    }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "name": "tconbota:foreskin",
+        "level": 1
+      },
+      {
+        "name": "tconbota:hardening",
+        "level": 1
+      }
+    ]
+  }
+}

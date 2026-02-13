@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "cast_consumed": false,
+  "fluid": {
+    "name": "tconbota:molten_darkpenis",
+    "amount": 90
+  },
+  "result": "tconbota:darkpenis",
+  "cooling_time": 60
+}

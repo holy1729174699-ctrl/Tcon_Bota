@@ -1,0 +1,14 @@
+{
+  "default": {
+    "traits": [
+      {
+        "name": "botania:mana_repair",
+        "level": 1
+      },
+      {
+        "name": "tconbota:mana_blast",
+        "level": 1
+      }
+    ]
+  }
+}

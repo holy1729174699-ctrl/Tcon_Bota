@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "botania:livingwood"
+    }
+  ],
+  "result": {
+    "name": "tconbota:jm"
+  },
+  "slots": {
+    "abilities": 1
+  }
+}

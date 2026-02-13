@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "cast_consumed": false,
+  "fluid": {
+    "name": "tconbota:molten_manapenis",
+    "amount": 90
+  },
+  "result": "tconbota:manapenis",
+  "cooling_time": 70
+}

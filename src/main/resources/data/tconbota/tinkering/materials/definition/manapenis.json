@@ -1,0 +1,8 @@
+{
+  "craftable": true,
+  "tier": 4,
+  "sortOrder": 100,
+  "hidden": false,
+  "fluid": "tconbota:molten_manapenis",
+  "fluidPerUnit": 90
+}

@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.holyicey.TconBota.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "tconbota.refmap.json",
+  "mixins": [
+    "ItemPropertiesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

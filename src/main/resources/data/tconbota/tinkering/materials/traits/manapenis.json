@@ -1,0 +1,54 @@
+{
+  "default": [
+    {
+      "name": "etstlib:mana_repair",
+      "level": 2
+    },
+    {
+      "name": "sakuratinker:mind",
+      "level": 1
+    },
+    {
+      "name": "sakuratinker:soul",
+      "level": 1
+    },
+    {
+      "name": "tconbota:mana_blast",
+      "level": 1
+    }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+      "name": "etstlib:mana_repair",
+      "level": 2
+      },
+      {
+        "name": "sakuratinker:terra_magical",
+        "level": 1
+      },
+      {
+        "name": "sakuratinker:gaia_guardian",
+        "level": 1
+      },
+      {
+        "level": 1,
+        "name": "sakuratinker:celestial"
+      },
+      {
+        "name": "sakuratinker:gale",
+        "level": 1
+      }
+    ],
+    "sakuratinker:charm": [
+      {
+        "name": "sakuratinker:celestial",
+        "level": 1
+      },
+      {
+        "name": "sakuratinker:gale",
+        "level": 1
+      }
+    ]
+  }
+}

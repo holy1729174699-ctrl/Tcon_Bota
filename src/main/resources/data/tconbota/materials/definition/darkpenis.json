@@ -1,0 +1,25 @@
+{
+  "fluid": {
+    "name": "tconstruct:molten_obsidian",
+    "amount": 100
+  },
+  "color": "FF111111",
+  "temperature": 1000,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:retexturing",
+      "texture": "tconbota:item/materials/darkpenis"
+    },
+    "supported_stats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:extra",
+      "tconstruct:armor_plating",
+      "tconstruct:armor_maille"
+    ],
+    "ignore_material_stats": false
+  },
+  "tier": 4,
+  "sort_order": 100,
+  "hidden": false
+}

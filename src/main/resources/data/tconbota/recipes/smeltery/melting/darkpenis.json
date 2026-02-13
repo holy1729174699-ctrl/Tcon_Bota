@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tconbota:darkpenis"
+  },
+  "result": {
+    "fluid": "tconbota:molten_darkpenis",
+    "amount": 90
+  },
+  "temperature": 1000,
+  "time": 60
+}

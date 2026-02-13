@@ -1,0 +1,25 @@
+{
+  "fluid": {
+    "name": "tconstruct:molten_gold",
+    "amount": 100
+  },
+  "color": "FF00BFFF",
+  "temperature": 800,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:retexturing",
+      "texture": "tconbota:item/materials/manapenis"
+    },
+    "supported_stats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:extra",
+      "tconstruct:armor_plating",
+      "tconstruct:armor_maille"
+    ],
+    "ignore_material_stats": false
+  },
+  "tier": 9,
+  "sort_order": 100,
+  "hidden": false
+}

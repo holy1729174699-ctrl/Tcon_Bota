@@ -1,0 +1,8 @@
+{
+  "craftable": true,
+  "tier": 3,
+  "sortOrder": 100,
+  "hidden": false,
+  "fluid": "tconbota:molten_darkpenis",
+  "fluidPerUnit": 90
+}

@@ -1,0 +1,15 @@
+{
+  "type": "botania:terra_plate",
+  "mana": 10000,
+  "ingredients": [
+    {
+      "item": "extrabotany:hero_medal"
+    },
+    {
+      "item": "botania:flight_tiara"
+    }
+  ],
+  "result": {
+    "item": "extrabotany:core_of_the_void"
+  }
+}

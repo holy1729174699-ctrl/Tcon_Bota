@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconbota:jm",
+  "text": [
+    {
+      "text": "根据伤害获得魔力"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "等级",
+    "需要1个能力槽"
+  ]
+}

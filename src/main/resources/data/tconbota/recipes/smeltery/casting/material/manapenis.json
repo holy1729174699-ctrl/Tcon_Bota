@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "tconbota:molten_manapenis",
+    "amount": 90
+  },
+  "temperature": 1200,
+  "output": "tconbota:manapenis"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GYG",
+    "GXG",
+    "HNH"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:dried_kelp"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "N": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "tconbota:darkpenis"
+  }
+}

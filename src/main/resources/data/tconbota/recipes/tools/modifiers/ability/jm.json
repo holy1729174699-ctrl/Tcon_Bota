@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "botania:livingwood"
+    }
+  ],
+  "level": 1,
+  "result": "tconbota:jm",
+  "slots": {
+    "abilities": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable"
+    }
+  ]
+}
