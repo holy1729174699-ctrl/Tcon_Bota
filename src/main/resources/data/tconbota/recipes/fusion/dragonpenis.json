@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "result": {
+    "item": "tconbota:dragonpenis"
+  },
+  "catalyst": {
+    "item": "tconbota:manapenis"
+  },
+  "total_energy": 32000000,
+  "tier": "WYVERN",
+  "ingredients": [
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    },
+    {
+      "item": "draconicevolution:reactor_stabilizer"
+    }
+  ]
+}

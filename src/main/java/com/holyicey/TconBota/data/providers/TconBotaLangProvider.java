@@ -13,12 +13,14 @@ public class TconBotaLangProvider extends LanguageProvider {
     @Override
     protected void addTranslations() {
         // Material Names
-        add("material.tconbota.darkpenis", "黑暗那啥");
-        add("material.tconbota.manapenis", "魔力那啥");
+        add("material.tconbota.darkpenis", "yjj的黑暗那啥");
+        add("material.tconbota.manapenis", "yjj的魔力那啥");
+        add("item.tconbota.dragonpenis", "注入龙之力的魔力那啥");
 
         // Material Flavor (Description in tooltips/book)
         add("material.tconbota.darkpenis.flavor", "来自黑暗的深邃力量？");
         add("material.tconbota.manapenis.flavor", "充盈着泰拉凝聚的魔力，闪耀着”神秘“的光辉");
+        add("item.tconbota.dragonpenis.desc", "通过龙之聚合装置注入了强大的龙之力。");
 
         // Encyclopedia Description (Book)
         add("material.tconbota.darkpenis.encyclopedia", "这种材料由黑暗物质凝聚而成，拥有强大的坚硬度和特殊的性质。");

@@ -24,4 +24,9 @@ public class ItemInit {
     // 注册 ManaPenis 物品
     public static final RegistryObject<Item> MANA_PENIS = ITEMS.register("manapenis",
             () -> new Item(new Item.Properties()));
+
+    // 注册 DragonPenis 物品
+    // 注入龙之力的魔力那啥
+    public static final RegistryObject<Item> DRAGON_PENIS = ITEMS.register("dragonpenis",
+            () -> new Item(new Item.Properties()));
 }

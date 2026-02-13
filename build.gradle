@@ -21,28 +21,6 @@ plugins {
 // 重要：必须在 plugins 块之后应用 Mixin 插件
 apply plugin: 'org.spongepowered.mixin'
 
-// 定义模组相关变量（请确保这些变量在 gradle.properties 中已配置）
-// 如果未配置，取消下面注释并修改为你的实际值
-// def mod_version = "1.0.0"
-// def mod_group_id = "com.yourname.tconbota"
-// def mod_id = "tconbota"
-// def minecraft_version = "1.20.1"
-// def forge_version = "47.4.15"
-// def mapping_channel = "official"
-// def mapping_version = "1.20.1"
-// def tcon_version = "4.7.1"
-// def mantle_version = "1.10.1"
-// def botania_version = "442"
-// def patchouli_version = "87"
-// def curios_version = "5.2.1+1.20.1"
-// def minecraft_version_range = "[1.20.1,1.21)"
-// def forge_version_range = "[47.0.0,48.0.0)"
-// def loader_version_range = "[47,48)"
-// def mod_name = "TConBotania"
-// def mod_license = "MIT"
-// def mod_authors = "Your Name"
-// def mod_description = "Tinkers' Construct + Botania integration mod"
-
 version = mod_version
 group = mod_group_id
 
