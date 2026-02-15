@@ -63,5 +63,8 @@ public class TconBotaModifiers {
         
         // 注册魔力爆发修饰符
         manaBlast = MODIFIERS.register("mana_blast", ManaBlastModifier::new);
+
+        // 注册进化修饰符
+        evolution = MODIFIERS.register("evolution", EvolutionModifier::new);
     }
 }
